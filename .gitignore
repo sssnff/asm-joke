@@ -1,0 +1,8 @@
+/Debug
+/Release
+*.suo
+*.sdf
+/lab2_OS/Debug
+/lab2_OS/Release
+RESULT.com
+RESULT.txt

@@ -1,0 +1,3 @@
+MOV DI,si
+MOV DX,[BP+04]
+MOV [BP+04],DX
